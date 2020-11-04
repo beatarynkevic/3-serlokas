@@ -1,10 +1,37 @@
-h1 {
-    font-size: 80px;
-    color: red;
+body {
+    /*background-color: #EBECEE;*/
+
 }
-p {
-    font-size: 40px;
-}
-#min {
-   font-size: 20px;
-}
+    img {
+        display: inline-block;
+        width: 40%;
+        float: left;
+    }
+    div {
+        width: 45%;
+        display: inline-block;
+        background-color: aquamarine;
+        text-align: center;
+        margin-top: 120px;
+    }
+    
+        h1 {
+            font-size: 120px;
+            color: #37414D;
+            display: inline-block;
+            width: 100%;
+            margin-bottom: 0px;
+        }
+        p {
+            font-size: 30px;
+            display: inline-block;
+            width: 100%;
+            
+        }
+        a {
+            display: inline-block;
+            background-color: #686F8B;
+            color: #ffffff;
+            padding: 16px;
+            margin: 24px;
+        }
